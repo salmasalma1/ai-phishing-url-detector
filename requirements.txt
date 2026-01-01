@@ -1,0 +1,16 @@
+# Requirements for AI Phishing Detector Project
+# Core dependencies - try installing individually if needed
+
+# Basic requirements (install these first)
+tldextract>=3.1.0
+
+# For ML features (optional - install after basic works)
+numpy>=1.19.0
+pandas>=1.1.0
+scikit-learn>=0.24.0
+
+# GUI dependencies (tkinter comes with Python)
+# tkinter - built-in with Python
+
+# Optional advanced features (install last)
+requests>=2.25.0

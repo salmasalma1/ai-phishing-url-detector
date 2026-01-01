@@ -1,0 +1,7 @@
+[2026-01-01 15:34:37] https://www.google.com | Score: 0/100 | Risk: LOW
+[2026-01-01 15:34:58] http://paypal-login-update-secure.com | Score: 25/100 | Risk: LOW
+[2026-01-01 15:39:57] https://www.google.com | Score: 0/100 | Risk: LOW
+[2026-01-01 15:40:54] http://paypal-login-update-secure.com | Score: 25/100 | Risk: LOW
+[2026-01-01 15:45:50] http://paypal-login-update-secure.com | Score: 25/100 | Risk: LOW
+[2026-01-01 15:46:24] http://www.google.com | Score: 25/100 | Risk: LOW
+[2026-01-01 15:47:30] http://amazn-account-verification.net | Score: 25/100 | Risk: LOW
